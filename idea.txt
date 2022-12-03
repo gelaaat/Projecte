@@ -1,0 +1,2 @@
+Connectar 3 arduinos via bluetooth en una raspberry, la qual rebrà les dades amb python i les enviarà per socket en un
+port el qual estarà un servidor escoltant per enviar les dades en una base de dades la qual podrem displayar en el navegador
